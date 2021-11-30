@@ -1,0 +1,21 @@
+
+h1
+{
+    color: fuchsia;
+}
+
+/*{
+    border: solid;
+}*/
+.header{
+    background-color: antiquewhite;
+}
+
+.games{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p{
+    text-align: center;
+}
